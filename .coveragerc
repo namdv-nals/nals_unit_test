@@ -1,0 +1,6 @@
+[run]
+omit =
+    exam.py
+    setup.py
+    */site-packages/*
+    */dist-packages/*
